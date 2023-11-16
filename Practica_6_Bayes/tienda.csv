@@ -1,0 +1,15 @@
+Categoria,Producto,EnStock,Oferta,Popularidad
+Electronicos,Laptop,True,No,No Popular
+Electronicos,Laptop,False,Yes,Popular
+Electronicos,Laptop,True,Yes,Popular
+Electronicos,Smartphone,True,No,Popular
+Electronicos,Smartphone,False,Yes,Popular
+Electronicos,Smartphone,False,No,No Popular
+Electronicos,Tablet,False,Yes,Popular
+Electronicos,Auriculares,True,Yes,Popular
+Accesorios,Mochila,True,Yes,Popular
+Accesorios,Mochila,True,No,No Popular
+Accesorios,Gafas,False,Yes,Popular
+Accesorios,Gorra,True,No,No Popular
+Accesorios,Gorra,False,Yes,No Popular
+Accesorios,Gafas,False,No,No Popular
