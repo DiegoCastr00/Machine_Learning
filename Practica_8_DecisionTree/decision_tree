@@ -1,0 +1,10 @@
+// Decision Tree
+digraph {
+	0 [label="Feature 1 <= 0.00"]
+	None [label=True]
+	None [label=True]
+	0 -> None [label=True]
+	0 -> None [label=False]
+	0 [label=0 shape=box]
+	1 [label=1 shape=box]
+}
